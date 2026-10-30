@@ -1,18 +1,19 @@
 # JampaX64_Sherlock
 
-Descarga de prueba para Android 6.0 o posterior.
+Descarga de prueba para Android 6.0 o posterior. Versión 0.8.
 
-- [Descargar APK para móviles actuales (ARM64)](https://raw.githubusercontent.com/Fjsystem/Sherlock/main/JampaX64_Sherlock-0.7-arm64-v8a.apk)
-- [Descargar APK para modelos ARM antiguos de 32 bits](https://raw.githubusercontent.com/Fjsystem/Sherlock/main/JampaX64_Sherlock-0.7-armeabi-v7a.apk)
+- [Descargar APK para móviles actuales (ARM64)](https://raw.githubusercontent.com/Fjsystem/Sherlock/main/JampaX64_Sherlock-0.8-arm64-v8a.apk)
+- [Descargar APK para modelos ARM antiguos de 32 bits](https://raw.githubusercontent.com/Fjsystem/Sherlock/main/JampaX64_Sherlock-0.8-armeabi-v7a.apk)
 
-Versión 0.7: búsqueda con cámara, coincidencias sin distinguir mayúsculas y tildes, puntos y recuadros sobre los textos encontrados, zoom, indicador rojo/verde, pitido, vibración y parpadeo de linterna durante tres segundos.
+Abre la descarga en Chrome si el navegador integrado del chat falla.
 
-Compilación y firmas verificadas; once comprobaciones de búsqueda y localización aprobadas. Pendiente verificar cámara y alineación de marcas en dispositivo real. APK firmados para pruebas; no son una publicación final de Google Play.
+Busca texto mediante la cámara sin distinguir mayúsculas ni tildes. Muestra recuadros sobre las coincidencias, indicador rojo/verde, zoom e icono con lupa. Se han retirado los puntos sobre los textos.
 
-Este repositorio contiene únicamente los APK, documentación de descarga y sumas SHA-256.
+## Novedades de 0.8
 
-La versión 0.7 incorpora un icono adaptado a partir del símbolo JampaX64 proporcionado por el usuario, con soporte de icono adaptativo de Android. Conserva la misma firma que la versión 0.4.
+- Botón **Opciones de aviso**: activa o desactiva sonido, parpadeo de linterna y vibración de forma independiente. Recuerda tu selección.
+- Botón **Guardar captura**: guarda un PNG de la cámara con los recuadros, el indicador, la consulta, el número de coincidencias y la fecha. Android permite elegir ubicación; después se reanuda la búsqueda. La captura es de la vista mostrada, con las últimas marcas OCR.
 
-Versión 0.7: opción 2 (lupa) elegida para JampaX64_Sherlock. La opción 1 (ojo) se reserva para otra aplicación del usuario.
+Compilación y firmas verificadas. Misma firma que versiones anteriores. Pendiente probar opciones y capturas en móvil real. APK de prueba, no versión final de Google Play.
 
-Versión 0.7: botón «Opciones de aviso» junto a la linterna. Permite activar o desactivar sonido, parpadeo y vibración de forma independiente. La selección se guarda para próximos usos. Pendiente comprobar estos controles en móvil real.
+Solo contiene APK, documentación de descarga y sumas SHA-256. La opción de icono con ojo queda reservada para otra aplicación.
