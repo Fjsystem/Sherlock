@@ -1,4 +1,4 @@
-88f9a75c07a95d378cc2ec27d4e3f2a0cf6dd0e1e806c4ad7850d018f2a235ba  Eyes/JampaX64_Eyes-0.1-arm64-v8a.apk
-80e445523a16d4cad97389d648082c17979b66d0cdaa1d5c8ae86cb0da3a4598  Eyes/JampaX64_Eyes-0.1-armeabi-v7a.apk
-cf33af03702a55ffa5147c9a2fb90721c86a3f0c7c9c9bc4f9662b81e0bb2efc  JampaX64_Sherlock-0.9-arm64-v8a.apk
-96502c445b089fe1f9b57d5d48cb551fc760aa978f6656688b8baa1dfd8ee315  JampaX64_Sherlock-0.9-armeabi-v7a.apk
+b1162dcc50c9dfed48620a6d1a7f5492a6f91fb16ae56a524691dd2884c2a39f  Eyes/JampaX64_Eyes-0.2-arm64-v8a.apk
+447f5761363ea338a82d654e548b9225972ebcbcb7d88cdb08a9c4bf6c08b68c  Eyes/JampaX64_Eyes-0.2-armeabi-v7a.apk
+08a0d086bfdd55c76c0060c22120c89d5876692d238555ca2a365d7d894d6445  JampaX64_Sherlock-0.10-arm64-v8a.apk
+e7935cffdc7c1810859958d6aab2a273e602572c8b845a8ec26839f72cea8ff4  JampaX64_Sherlock-0.10-armeabi-v7a.apk
