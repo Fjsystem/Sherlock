@@ -1,19 +1,24 @@
-# JampaX64_Sherlock
+# Descargas de JampaX64
 
-Descarga de prueba para Android 6.0 o posterior. Versión 0.8.
+## Jampa X64 Eyes 0.1 — comparar etiquetas
 
-- [Descargar APK para móviles actuales (ARM64)](https://raw.githubusercontent.com/Fjsystem/Sherlock/main/JampaX64_Sherlock-0.8-arm64-v8a.apk)
-- [Descargar APK para modelos ARM antiguos de 32 bits](https://raw.githubusercontent.com/Fjsystem/Sherlock/main/JampaX64_Sherlock-0.8-armeabi-v7a.apk)
+- [Descargar Eyes para móviles actuales (ARM64)](https://raw.githubusercontent.com/Fjsystem/Sherlock/main/Eyes/JampaX64_Eyes-0.1-arm64-v8a.apk)
+- [Descargar Eyes para ARM de 32 bits](https://raw.githubusercontent.com/Fjsystem/Sherlock/main/Eyes/JampaX64_Eyes-0.1-armeabi-v7a.apk)
+- [Cómo utilizar Eyes](Eyes/README.md)
 
-Abre la descarga en Chrome si el navegador integrado del chat falla.
+Captura una etiqueta patrón, revisa la imagen y el texto leído y pulsa Usar patrón. Enseña otras etiquetas dentro del marco. Puedes combinar Textos, Dibujos y Color y ajustar el detalle visual. Disco verde: coincide en las comprobaciones y tolerancias seleccionadas. Rojo: diferencias con recuadros. Gris: no comparable o lectura en curso; no significa correcto.
 
-Busca texto mediante la cámara sin distinguir mayúsculas ni tildes. Muestra recuadros sobre las coincidencias, indicador rojo/verde, zoom e icono con lupa. Se han retirado los puntos sobre los textos.
+## JampaX64_Sherlock 0.9 — buscar texto
 
-## Novedades de 0.8
+- [Descargar Sherlock para móviles actuales (ARM64)](https://raw.githubusercontent.com/Fjsystem/Sherlock/main/JampaX64_Sherlock-0.9-arm64-v8a.apk)
+- [Descargar Sherlock para ARM de 32 bits](https://raw.githubusercontent.com/Fjsystem/Sherlock/main/JampaX64_Sherlock-0.9-armeabi-v7a.apk)
 
-- Botón **Opciones de aviso**: activa o desactiva sonido, parpadeo de linterna y vibración de forma independiente. Recuerda tu selección.
-- Botón **Guardar captura**: guarda un PNG de la cámara con los recuadros, el indicador, la consulta, el número de coincidencias y la fecha. Android permite elegir ubicación; después se reanuda la búsqueda. La captura es de la vista mostrada, con las últimas marcas OCR.
+Conserva búsqueda por cámara, zoom, recuadros, opciones de sonido/linterna/vibración y capturas de resultados. Añade logotipo completo y controles compactos para dejar más espacio a la cámara. Mantiene la firma para actualizar versiones anteriores.
 
-Compilación y firmas verificadas. Misma firma que versiones anteriores. Pendiente probar opciones y capturas en móvil real. APK de prueba, no versión final de Google Play.
+## Instalación y estado
 
-Solo contiene APK, documentación de descarga y sumas SHA-256. La opción de icono con ojo queda reservada para otra aplicación.
+Abre los enlaces en Chrome si falla la descarga dentro del chat. Eyes y Sherlock se instalan como aplicaciones independientes.
+
+Compilaciones y firmas verificadas. 22 comprobaciones del motor de texto y estados de Eyes aprobadas. **Primeros APK de prueba: falta validar cámara, alineación, color y controles en dispositivos reales.** El verde de Eyes depende del OCR y de las tolerancias; no garantiza igualdad física absoluta ni certifica calidad de impresión. Ajustar y probar con etiquetas reales y defectos conocidos.
+
+Ambas aplicaciones eliminan permisos de red y trabajan localmente. El patrón de Eyes se guarda en el almacenamiento privado del móvil. Este repositorio público contiene solo APK, documentación de descarga y sumas SHA-256; no contiene patrones ni código fuente.
