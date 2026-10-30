@@ -1,0 +1,2 @@
+3f23eeb2f5c18b975b8c52fceb9f23632ef27f5f5722fe4a63fcacf610748499  JampaX64_Sherlock-0.4-arm64-v8a.apk
+51afc1336de52dbcacb4605f5c9d6dd4f78afe7c79622956b9ac0cd6d330ef59  JampaX64_Sherlock-0.4-armeabi-v7a.apk
